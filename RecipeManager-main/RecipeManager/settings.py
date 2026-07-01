@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-1h1r4@4u0di9g0k(m8hlf4p75d4u=h#+ao1tc#*ujx6n#o@qzc'
 
 # Change to False in production
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [
     "shareyourresipe-1.onrender.com",
