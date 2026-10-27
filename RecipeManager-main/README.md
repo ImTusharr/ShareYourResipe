@@ -1,9 +1,9 @@
 
 # 🍽️ Recipe Manager  
 
-![Recipe Manager](https://img.shields.io/badge/Status-Live-brightgreen) ![Django](https://img.shields.io/badge/Framework-Django-blue) ![MySQL](https://img.shields.io/badge/Database-MySQL-orange) ![Python](https://img.shields.io/badge/Language-Python-green)  
+![Recipe Manager](https://shareyourresipe-1.onrender.com) ![Django](https://img.shields.io/badge/Framework-Django-blue) ![MySQL](https://img.shields.io/badge/Database-MySQL-orange) ![Python](https://img.shields.io/badge/Language-Python-green)  
 
-🔗 **Live Demo:** [Recipe Manager](https://recipemanager-wqov.onrender.com/)  
+🔗 **Live Demo:** [Share your recipe](https://shareyourresipe-1.onrender.com)
 
 ## 📌 About the Project  
 **Recipe Manager** is a web-based application designed to help users store, manage, and share their favorite recipes. Built using Django and MySQL, it offers an intuitive and interactive user experience.  
@@ -60,7 +60,7 @@ Contributions are always welcome! Feel free to fork the repository and submit a 
 
 ## 📧 Contact  
 📩 **Ayush Chainani**  
-🔗 [Portfolio](https://ayushchainani.me) | [LinkedIn](https://linkedin.com/in/ayushchainani)  
+🔗 [GitHub](https://github.com/ImTusharr) | [LinkedIn](https://www.linkedin.com/in/tushar-dhamecha/)  
 
 Give a ⭐ if you found this useful! 🚀  
 
