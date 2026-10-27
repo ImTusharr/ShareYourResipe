@@ -59,7 +59,7 @@ Now, open **http://127.0.0.1:8000/** in your browser. 🎉
 Contributions are always welcome! Feel free to fork the repository and submit a pull request.  
 
 ## 📧 Contact  
-📩 **Ayush Chainani**  
+📩 **Tushar Dhamecha**  
 🔗 [GitHub](https://github.com/ImTusharr) | [LinkedIn](https://www.linkedin.com/in/tushar-dhamecha/)  
 
 Give a ⭐ if you found this useful! 🚀  
